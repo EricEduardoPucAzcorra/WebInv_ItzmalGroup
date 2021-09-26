@@ -1,0 +1,1 @@
+web: vendor/bin/heruco-php-apache2 public/
